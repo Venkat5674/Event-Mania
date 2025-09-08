@@ -37,7 +37,7 @@
 - **Frontend**: React.js, HTML5, CSS3  
 - **Backend**: Firebase Realtime Database  
 - **Authentication**: Firebase Auth  
-- **Additional Tools**: Modern UI/UX design principles for a seamless experience  
+- **Additional Tools**: Modern UI/UX design principles for a seamless experience 
 
 ---
 
