@@ -77,8 +77,8 @@ We welcome contributions from developers passionate about creating better soluti
 ## 📫 Contact  
 
 Have questions or suggestions? Reach out to us!  
-- **Email**: [Mail Me ❤️](mailto:kushyanthpothineni@gmail.com)  
-- **Linkedin**: [See my profile on linkedin](https://www.linkedin.com/in/kushyanth-pothineni/)
+- **Email**: [Mail Me ❤️](mailto:pamudurtivenkatesh@gmail.com)  
+- **Linkedin**: [See my profile on linkedin](https://www.linkedin.com/in/venkatesh-pamudurti-2a134a252/)
 - **Website**: [Watch my website](https://ap-event-mania.web.app/)
 
 ---
