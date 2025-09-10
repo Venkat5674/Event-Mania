@@ -8,7 +8,7 @@
 
 **Event Mania** is a one-stop platform designed to simplify event management for colleges and students. Whether you’re a student looking for exciting events to join or a college representative organizing events, Event Mania bridges the gap and creates a seamless experience.  
 
-### 🏆 Why Choose Event Mania?  
+### 🏆 Why Choose Event Mania? 
 - Effortlessly discover and register for events across multiple colleges.  
 - Manage event registrations with ease as a college representative.  
 - Centralized platform for superusers to oversee all events and accounts.  
