@@ -66,8 +66,10 @@ Event Mania is a comprehensive event management platform designed for educationa
 
 
 ### Student Dashboard
-<!-- ![Dashboard](./screenshots/dashboard.png) -->
-<img width="1439" height="813" alt="image" src="https://github.com/user-attachments/assets/ac1a5a77-6a42-4944-ae5f-c117ab5a0e11" />
+<p align="left">
+  <img src="https://i.ibb.co/HLhqsT08/Student-profile.png" alt="Student Profile" width="900" />
+</p>
+
 
 ### College Admin Dashboard
 
